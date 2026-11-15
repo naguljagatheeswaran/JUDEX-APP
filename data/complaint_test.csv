@@ -1,0 +1,721 @@
+complaint,category,source,example_id
+The report explains the circumstances this way: my mobile phone was stolen from my bag.,Theft,expanded_v14_holdout,Theft_test_0
+The allegation is described in these terms: my chain disappeared while I was outside.,Theft,expanded_v14_holdout,Theft_test_1
+The complaint narrative provides that i found out later that someone had taken the complainant's laptop.,Theft,expanded_v14_holdout,Theft_test_2
+The case information provided is: house my from watch my stole Someone.,Theft,expanded_v14_holdout,Theft_test_3
+The allegation is described in these terms: i came home and found that my watch was missing.,Theft,expanded_v14_holdout,Theft_test_4
+The facts supplied for review are: someone secretly removed cash from my jacket pocket while I was in a crowded market.,Theft,expanded_v14_holdout,Theft_test_5
+The incident is summarized in the complaint as: i found out later that someone had taken my laptop.,Theft,expanded_v14_holdout,Theft_test_6
+The matter is presented as follows: my bag was stolen while travelling.,Theft,expanded_v14_holdout,Theft_test_7
+The report explains the circumstances this way: my laptop was stolen from my room.,Theft,expanded_v14_holdout,Theft_test_8
+The complaint narrative provides that my laptop disappeared from the complainant's room.,Theft,expanded_v14_holdout,Theft_test_9
+The report explains the circumstances this way: my backpack was taken from the bus.,Theft,expanded_v14_holdout,Theft_test_10
+The allegation is described in these terms: i discovered that my watch had disappeared.,Theft,expanded_v14_holdout,Theft_test_11
+The reporting person describes the event as: my phone was missing after I left it unattended.,Theft,expanded_v14_holdout,Theft_test_12
+The complainant says the following occurred: someone took my phone from my table.,Theft,expanded_v14_holdout,Theft_test_13
+The allegation is described in these terms: my bicycle was there in the morning but was gone later.,Theft,expanded_v14_holdout,Theft_test_14
+The submitted account says that someone took my bag while I was travelling.,Theft,expanded_v14_holdout,Theft_test_15
+The submitted complaint records that my phone disappeared from my desk while I was away.,Theft,expanded_v14_holdout,Theft_test_16
+The matter is presented as follows: my valuables disappeared from my room.,Theft,expanded_v14_holdout,Theft_test_17
+The complaint narrative provides that someone took the complainant's bag while I was travelling.,Theft,expanded_v14_holdout,Theft_test_18
+The reporting party states that my mobile phone was stolen from my bag.,Theft,expanded_v14_holdout,Theft_test_19
+The incident is summarized in the complaint as: someone took my bag while I was travelling.,Theft,expanded_v14_holdout,Theft_test_20
+The incident account says that my wallet was stolen in the market.,Theft,expanded_v14_holdout,Theft_test_21
+The facts described by the complainant are: my laptop was taken when I left my room briefly.,Theft,expanded_v14_holdout,Theft_test_22
+"In the incident description, it is stated that someone took my phone without my permission.",Theft,expanded_v14_holdout,Theft_test_23
+The report provided by the applicant states that i found out later that someone had taken the complainant's laptop.,Theft,expanded_v14_holdout,Theft_test_24
+The complaint states in substance that my purse went missing while I was shopping.,Theft,expanded_v14_holdout,Theft_test_25
+The report explains the circumstances this way: someone took my phone from my table.,Theft,expanded_v14_holdout,Theft_test_26
+"In the incident description, it is stated that i discovered that my watch had disappeared.",Theft,expanded_v14_holdout,Theft_test_27
+The reporting person describes the event as: i cannot find the complainant's wallet and believe somebody took it.,Theft,expanded_v14_holdout,Theft_test_28
+The incident account says that my laptop was taken when i left my room briefly.,Theft,expanded_v14_holdout,Theft_test_29
+The report explains the circumstances this way: someone made a UPI transaction without my permission.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_0
+The facts described by the complainant are: someone made an unauthorized online transaction.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_1
+The allegation is described in these terms: someone cheated me through an online transaction.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_2
+"The report provided by the applicant states that i was told I had to pay a fee to receive a refund, and money was taken.",Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_3
+The report provided by the applicant states that a person sent me a fraudulent UPI payment request.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_4
+"In the incident description, it is stated that someone deceived me into making an online transfer.",Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_5
+The reporting party states that someone sent me a fake payment request.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_6
+The complainant says the following occurred: money was transferred from my account without my approval.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_7
+The submitted account says that i received a suspicious link pretending to be from my bank.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_8
+The reporting party states that i lost money after following instructions from a fake bank representative.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_9
+The complaint states in substance that a person tricked me into approving a UPI transaction.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_10
+The matter is presented as follows: someone pretended to help me with my bank account and cheated me.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_11
+The facts described by the complainant are: an unauthorized online payment was made from my account.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_12
+The case information provided is: money was transferred from my account without my approval.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_13
+The report explains the circumstances this way: a fake delivery message led me to a payment page.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_14
+The complainant says the following occurred: a fake bank representative asked me for account details.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_15
+The reporting party states that money was transferred from my account without my approval.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_16
+The complaint gives this account of events: a fake customer-care representative tricked me into making a payment.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_17
+The complaint states in substance that i lost money after following instructions from a fake bank representative.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_18
+The case information provided is: i received a fraudulent payment request from an unknown person.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_19
+The incident account says that an individual sent me a fake refund link and i lost money.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_20
+The allegation is described in these terms: someone impersonated a bank employee during a phone call.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_21
+The reporting party states that i received a message saying my bank account would be blocked unless i paid.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_22
+The incident is summarized in the complaint as: i was tricked into transferring money through an online payment app.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_23
+The complainant says the following occurred: someone sent me a fake refund link and I lost money.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_24
+The incident is summarized in the complaint as: someone made an unauthorized online transaction.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_25
+The submitted account says that i was cheated through a fake online payment.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_26
+The case information provided is: someone pretended to help me with my bank account and cheated me.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_27
+The report provided by the applicant states that i received a suspicious link pretending to be from the complainant's bank.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_28
+The incident account says that i received a fake banking link and lost money.,Cyber Fraud,expanded_v14_holdout,Cyber Fraud_test_29
+The reporting party states that people keep attacking me with insulting comments over the internet.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_0
+The complaint gives this account of events: people are posting embarrassing comments about me online.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_1
+The submitted account says that me about messages hateful spreading is Someone.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_2
+The complaint states in substance that a person has repeatedly targeted me with embarrassing posts.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_3
+The complaint narrative provides that someone keeps posting insulting comments under the complainant's photos.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_4
+The facts supplied for review are: people are targeting me with insulting social media posts.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_5
+The facts described by the complainant are: i keep receiving cruel messages from the same person.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_6
+The allegation is described in these terms: a group chat is being used to repeatedly make fun of me.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_7
+The complaint states in substance that people repeatedly post insulting things about me.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_8
+The reporting person describes the event as: someone repeatedly mocks me whenever I post something.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_9
+The complainant says the following occurred: someone keeps trying to embarrass me in public online posts.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_10
+The reporting person describes the event as: someone is repeatedly making fun of me in an online group.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_11
+The report explains the circumstances this way: someone keeps trying to embarrass me in public online posts.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_12
+The report explains the circumstances this way: my classmates keep posting jokes about me to embarrass me.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_13
+The complaint gives this account of events: someone keeps humiliating me through social media.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_14
+The submitted account says that a person keeps making embarrassing posts about me.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_15
+The facts supplied for review are: someone keeps posting insulting comments under my photos.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_16
+The complaint states in substance that my classmate is bullying me on social media.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_17
+The submitted account says that a person keeps sharing humiliating comments about me.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_18
+The complainant says the following occurred: someone is repeatedly making fun of me in an online group.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_19
+The submitted account says that a group chat is being used to repeatedly make fun of me.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_20
+"In the incident description, it is stated that a group chat is being used to repeatedly make fun of me.",Cyberbullying,expanded_v14_holdout,Cyberbullying_test_21
+The complaint states in substance that people are posting embarrassing comments about me online.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_22
+The reporter states the circumstances were that someone keeps targeting me on social media.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_23
+The complaint narrative provides that someone is repeatedly making fun of me in an online group.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_24
+The incident is summarized in the complaint as: someone keeps targeting me on social media.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_25
+The incident is summarized in the complaint as: someone is threatening me through social media messages.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_26
+The complaint states in substance that someone repeatedly tags me in insulting posts.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_27
+The reporter states the circumstances were that someone keeps trying to embarrass me in public online posts.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_28
+The complaint narrative provides that a person keeps posting mean comments about me.,Cyberbullying,expanded_v14_holdout,Cyberbullying_test_29
+The incident account says that a person created a profile using my identity.,Identity Theft,expanded_v14_holdout,Identity Theft_test_0
+"In the incident description, it is stated that someone is pretending to be me to communicate with others.",Identity Theft,expanded_v14_holdout,Identity Theft_test_1
+The report explains the circumstances this way: my identity was used to contact people I know.,Identity Theft,expanded_v14_holdout,Identity Theft_test_2
+The complaint narrative provides that someone used the complainant's identity documents without permission.,Identity Theft,expanded_v14_holdout,Identity Theft_test_3
+The matter is presented as follows: someone is pretending to be me and communicating with others.,Identity Theft,expanded_v14_holdout,Identity Theft_test_4
+The submitted account says that someone has copied my identity and created a profile.,Identity Theft,expanded_v14_holdout,Identity Theft_test_5
+The allegation is described in these terms: my identity details were stolen online.,Identity Theft,expanded_v14_holdout,Identity Theft_test_6
+The submitted complaint records that a stranger is using my name and photographs online.,Identity Theft,expanded_v14_holdout,Identity Theft_test_7
+The submitted complaint records that online stolen were details identity My.,Identity Theft,expanded_v14_holdout,Identity Theft_test_8
+The allegation is described in these terms: a stranger is pretending to be me online.,Identity Theft,expanded_v14_holdout,Identity Theft_test_9
+The incident is summarized in the complaint as: my personal information was used to create an account.,Identity Theft,expanded_v14_holdout,Identity Theft_test_10
+The case information provided is: a fake social media account is pretending to be me.,Identity Theft,expanded_v14_holdout,Identity Theft_test_11
+The facts described by the complainant are: someone is pretending to be me to communicate with others.,Identity Theft,expanded_v14_holdout,Identity Theft_test_12
+The report provided by the applicant states that a fake profile has been created using the complainant's identity.,Identity Theft,expanded_v14_holdout,Identity Theft_test_13
+The reporter states the circumstances were that someone created an account pretending to be me.,Identity Theft,expanded_v14_holdout,Identity Theft_test_14
+The incident account says that my personal details were used by another person.,Identity Theft,expanded_v14_holdout,Identity Theft_test_15
+The complainant says the following occurred: a person created a fake account using my name.,Identity Theft,expanded_v14_holdout,Identity Theft_test_16
+The report explains the circumstances this way: a stranger is pretending to be me online.,Identity Theft,expanded_v14_holdout,Identity Theft_test_17
+The complaint narrative provides that someone is falsely representing themselves as me online.,Identity Theft,expanded_v14_holdout,Identity Theft_test_18
+"In the incident description, it is stated that a person is impersonating me and messaging my friends.",Identity Theft,expanded_v14_holdout,Identity Theft_test_19
+The reporting party states that someone used my identity documents without permission.,Identity Theft,expanded_v14_holdout,Identity Theft_test_20
+The facts supplied for review are: someone is using my details to contact other people.,Identity Theft,expanded_v14_holdout,Identity Theft_test_21
+The facts supplied for review are: my personal details were used by somebody else.,Identity Theft,expanded_v14_holdout,Identity Theft_test_22
+The report provided by the applicant states that someone is impersonating me on social media.,Identity Theft,expanded_v14_holdout,Identity Theft_test_23
+The incident is summarized in the complaint as: a stranger is using my name and photographs online.,Identity Theft,expanded_v14_holdout,Identity Theft_test_24
+The reporting person describes the event as: my identity was used to contact people I know.,Identity Theft,expanded_v14_holdout,Identity Theft_test_25
+The facts supplied for review are: someone made a fake profile with my photographs.,Identity Theft,expanded_v14_holdout,Identity Theft_test_26
+The complaint narrative provides that a fake social media account is pretending to be me.,Identity Theft,expanded_v14_holdout,Identity Theft_test_27
+The complaint narrative provides that someone has used the complainant's personal details without asking me.,Identity Theft,expanded_v14_holdout,Identity Theft_test_28
+The allegation is described in these terms: someone is using my details to contact other people.,Identity Theft,expanded_v14_holdout,Identity Theft_test_29
+The complainant says the following occurred: someone keeps sending unwanted messages to my phone.,Harassment,expanded_v14_holdout,Harassment_test_0
+"In the incident description, it is stated that an individual keeps approaching me and refusing to leave me alone.",Harassment,expanded_v14_holdout,Harassment_test_1
+The incident account says that someone keeps calling me and disturbing me.,Harassment,expanded_v14_holdout,Harassment_test_2
+The facts supplied for review are: someone is continuously bothering me.,Harassment,expanded_v14_holdout,Harassment_test_3
+The reporter states the circumstances were that someone continues bothering me even after I clearly said no.,Harassment,expanded_v14_holdout,Harassment_test_4
+The allegation is described in these terms: someone follows me whenever I leave school.,Harassment,expanded_v14_holdout,Harassment_test_5
+The reporting person describes the event as: i receive calls from the same person again and again.,Harassment,expanded_v14_holdout,Harassment_test_6
+The allegation is described in these terms: i am receiving repeated unwanted messages.,Harassment,expanded_v14_holdout,Harassment_test_7
+The submitted account says that a person repeatedly contacts my family about me.,Harassment,expanded_v14_holdout,Harassment_test_8
+The incident is summarized in the complaint as: someone keeps calling me from different numbers.,Harassment,expanded_v14_holdout,Harassment_test_9
+The incident is summarized in the complaint as: someone has been bothering me for several days.,Harassment,expanded_v14_holdout,Harassment_test_10
+The case information provided is: home travel I whenever me follows Someone.,Harassment,expanded_v14_holdout,Harassment_test_11
+The incident account says that someone keeps approaching me and refusing to leave me alone.,Harassment,expanded_v14_holdout,Harassment_test_12
+The complaint states in substance that someone keeps trying to contact me after I blocked them.,Harassment,expanded_v14_holdout,Harassment_test_13
+The facts described by the complainant are: a person repeatedly sends messages that I do not want.,Harassment,expanded_v14_holdout,Harassment_test_14
+The narrative given to the classifier says outside me for waits repeatedly Someone.,Harassment,expanded_v14_holdout,Harassment_test_15
+The narrative given to the classifier says someone keeps contacting me despite my requests to stop.,Harassment,expanded_v14_holdout,Harassment_test_16
+The case information provided is: i am being repeatedly harassed by a person.,Harassment,expanded_v14_holdout,Harassment_test_17
+The incident is summarized in the complaint as: someone continues to contact me despite being told not to.,Harassment,expanded_v14_holdout,Harassment_test_18
+The facts described by the complainant are: someone continues bothering me even after I clearly said no.,Harassment,expanded_v14_holdout,Harassment_test_19
+The report provided by the applicant states that i receive calls from the same person again and again.,Harassment,expanded_v14_holdout,Harassment_test_20
+The complainant says the following occurred: someone keeps approaching me even though I avoid them.,Harassment,expanded_v14_holdout,Harassment_test_21
+The complainant says the following occurred: i am being continuously disturbed by someone.,Harassment,expanded_v14_holdout,Harassment_test_22
+The matter is presented as follows: someone keeps sending unwanted messages to my phone.,Harassment,expanded_v14_holdout,Harassment_test_23
+The complaint gives this account of events: i am being continuously disturbed by someone.,Harassment,expanded_v14_holdout,Harassment_test_24
+The report provided by the applicant states that someone keeps contacting me despite the complainant's requests to stop.,Harassment,expanded_v14_holdout,Harassment_test_25
+The reporting party states that i have asked this person to stop contacting me but they continue.,Harassment,expanded_v14_holdout,Harassment_test_26
+The report explains the circumstances this way: a person keeps contacting me even after I asked them to stop.,Harassment,expanded_v14_holdout,Harassment_test_27
+"In the incident description, it is stated that someone keeps disturbing and threatening me.",Harassment,expanded_v14_holdout,Harassment_test_28
+The reporting person describes the event as: someone repeatedly waits for me outside.,Harassment,expanded_v14_holdout,Harassment_test_29
+The submitted account says that someone restrained me and would not let me leave.,Physical Assault,expanded_v14_holdout,Physical Assault_test_0
+The reporting person describes the event as: a person assaulted me and caused serious injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_1
+The report provided by the applicant states that someone hit me and caused an injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_2
+The facts supplied for review are: i was assaulted and suffered a fracture.,Physical Assault,expanded_v14_holdout,Physical Assault_test_3
+The submitted complaint records that fracture a suffered and assaulted was I.,Physical Assault,expanded_v14_holdout,Physical Assault_test_4
+The reporting party states that someone injured me during an argument.,Physical Assault,expanded_v14_holdout,Physical Assault_test_5
+The allegation is described in these terms: someone restrained me and would not let me leave.,Physical Assault,expanded_v14_holdout,Physical Assault_test_6
+The reporter states the circumstances were that someone injured me during an argument.,Physical Assault,expanded_v14_holdout,Physical Assault_test_7
+The facts supplied for review are: someone restrained me and would not let me leave.,Physical Assault,expanded_v14_holdout,Physical Assault_test_8
+The complaint gives this account of events: a person assaulted me and caused serious injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_9
+The narrative given to the classifier says injury an caused and me hit Someone.,Physical Assault,expanded_v14_holdout,Physical Assault_test_10
+The report explains the circumstances this way: a person attacked me with a weapon.,Physical Assault,expanded_v14_holdout,Physical Assault_test_11
+The matter is presented as follows: someone hit me and caused an injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_12
+"In the incident description, it is stated that a person punched me and injured me.",Physical Assault,expanded_v14_holdout,Physical Assault_test_13
+The matter is presented as follows: a person locked me inside a room.,Physical Assault,expanded_v14_holdout,Physical Assault_test_14
+The complaint states in substance that i was physically attacked by another person.,Physical Assault,expanded_v14_holdout,Physical Assault_test_15
+The incident is summarized in the complaint as: a person attacked me with a weapon.,Physical Assault,expanded_v14_holdout,Physical Assault_test_16
+The allegation is described in these terms: someone hit me and caused an injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_17
+The allegation is described in these terms: someone slapped and kicked me.,Physical Assault,expanded_v14_holdout,Physical Assault_test_18
+The complaint gives this account of events: a person attacked me with a weapon.,Physical Assault,expanded_v14_holdout,Physical Assault_test_19
+The submitted complaint records that me injured and me punched person A.,Physical Assault,expanded_v14_holdout,Physical Assault_test_20
+The complaint narrative provides that someone injured me during an argument.,Physical Assault,expanded_v14_holdout,Physical Assault_test_21
+The incident account says that someone hit me and caused an injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_22
+The facts described by the complainant are: a person assaulted me and caused serious injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_23
+The complaint gives this account of events: i was assaulted and suffered a fracture.,Physical Assault,expanded_v14_holdout,Physical Assault_test_24
+The reporter states the circumstances were that a person punched me and injured me.,Physical Assault,expanded_v14_holdout,Physical Assault_test_25
+The reporter states the circumstances were that i was assaulted and suffered a fracture.,Physical Assault,expanded_v14_holdout,Physical Assault_test_26
+The reporting person describes the event as: someone hit me and caused an injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_27
+The submitted complaint records that argument an during me injured Someone.,Physical Assault,expanded_v14_holdout,Physical Assault_test_28
+The facts supplied for review are: a person assaulted me and caused serious injury.,Physical Assault,expanded_v14_holdout,Physical Assault_test_29
+The complaint gives this account of events: i was promised a large profit if I gave someone money.,Financial Scam,expanded_v14_holdout,Financial Scam_test_0
+The reporter states the circumstances were that i paid money to secure a job that was never provided.,Financial Scam,expanded_v14_holdout,Financial Scam_test_1
+The facts supplied for review are: someone asked for a deposit before giving me a promised job.,Financial Scam,expanded_v14_holdout,Financial Scam_test_2
+The complainant says the following occurred: i paid an advance for a job that did not exist.,Financial Scam,expanded_v14_holdout,Financial Scam_test_3
+The reporter states the circumstances were that someone promised high returns and disappeared after receiving my money.,Financial Scam,expanded_v14_holdout,Financial Scam_test_4
+The complaint narrative provides that a company offered me a fake financial opportunity.,Financial Scam,expanded_v14_holdout,Financial Scam_test_5
+The complainant says the following occurred: a person asked for money promising a large return.,Financial Scam,expanded_v14_holdout,Financial Scam_test_6
+"In the incident description, it is stated that i paid an advance for a job that did not exist.",Financial Scam,expanded_v14_holdout,Financial Scam_test_7
+The reporting party states that i paid money to a fraudulent company.,Financial Scam,expanded_v14_holdout,Financial Scam_test_8
+The complaint narrative provides that a person promised to arrange a loan after I paid a fee.,Financial Scam,expanded_v14_holdout,Financial Scam_test_9
+The complaint states in substance that i was cheated by a fake financial offer.,Financial Scam,expanded_v14_holdout,Financial Scam_test_10
+The incident is summarized in the complaint as: i lost money in a fake investment scheme.,Financial Scam,expanded_v14_holdout,Financial Scam_test_11
+The report explains the circumstances this way: a fake loan provider took money from me.,Financial Scam,expanded_v14_holdout,Financial Scam_test_12
+The incident account says that i paid money to participate in a fraudulent financial scheme.,Financial Scam,expanded_v14_holdout,Financial Scam_test_13
+The reporting party states that a person offered me a fake loan and collected fees.,Financial Scam,expanded_v14_holdout,Financial Scam_test_14
+The incident is summarized in the complaint as: i lost money through a fraudulent business opportunity.,Financial Scam,expanded_v14_holdout,Financial Scam_test_15
+The reporting person describes the event as: i paid money to secure a job that was never provided.,Financial Scam,expanded_v14_holdout,Financial Scam_test_16
+The complaint gives this account of events: someone promised me a job and took the complainant's money.,Financial Scam,expanded_v14_holdout,Financial Scam_test_17
+The incident account says that i lost money after trusting a fraudulent financial offer.,Financial Scam,expanded_v14_holdout,Financial Scam_test_18
+The complaint narrative provides that i paid a fee for a job that did not exist.,Financial Scam,expanded_v14_holdout,Financial Scam_test_19
+The incident account says that a person took my money after promising a large return.,Financial Scam,expanded_v14_holdout,Financial Scam_test_20
+The submitted account says that i was cheated by someone offering unrealistic investment returns.,Financial Scam,expanded_v14_holdout,Financial Scam_test_21
+The complainant says the following occurred: someone offered me a job and demanded an upfront payment.,Financial Scam,expanded_v14_holdout,Financial Scam_test_22
+The matter is presented as follows: i paid money to a fraudulent company.,Financial Scam,expanded_v14_holdout,Financial Scam_test_23
+The reporting person describes the event as: i paid money for a prize that I never received.,Financial Scam,expanded_v14_holdout,Financial Scam_test_24
+The allegation is described in these terms: a person promised to arrange a loan after I paid a fee.,Financial Scam,expanded_v14_holdout,Financial Scam_test_25
+The facts described by the complainant are: someone asked me for money in exchange for a promised reward.,Financial Scam,expanded_v14_holdout,Financial Scam_test_26
+The allegation is described in these terms: someone offered me a job and demanded an upfront payment.,Financial Scam,expanded_v14_holdout,Financial Scam_test_27
+The submitted account says that i lost money after joining a fraudulent investment scheme.,Financial Scam,expanded_v14_holdout,Financial Scam_test_28
+The complainant says the following occurred: i lost money after trusting a fraudulent financial offer.,Financial Scam,expanded_v14_holdout,Financial Scam_test_29
+The reporting party states that a person keeps writing offensive comments about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_0
+The reporting person describes the event as: someone shared a harmful post about me publicly.,Online Abuse,expanded_v14_holdout,Online Abuse_test_1
+The facts described by the complainant are: i found several abusive comments directed at me online.,Online Abuse,expanded_v14_holdout,Online Abuse_test_2
+The submitted account says that a person keeps posting insulting things about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_3
+The matter is presented as follows: a person posted harmful claims about me on social media.,Online Abuse,expanded_v14_holdout,Online Abuse_test_4
+The report provided by the applicant states that someone posted offensive statements about me in a group.,Online Abuse,expanded_v14_holdout,Online Abuse_test_5
+The matter is presented as follows: a person is using offensive posts against me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_6
+The submitted complaint records that i am receiving abusive comments on my social media account.,Online Abuse,expanded_v14_holdout,Online Abuse_test_7
+The case information provided is: photographs my under comments abusive posted Someone.,Online Abuse,expanded_v14_holdout,Online Abuse_test_8
+The submitted complaint records that a person keeps posting insulting things about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_9
+The facts supplied for review are: someone posted insulting comments about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_10
+The complaint states in substance that someone is using social media to spread offensive content about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_11
+The allegation is described in these terms: someone is using online posts to damage my reputation.,Online Abuse,expanded_v14_holdout,Online Abuse_test_12
+The submitted account says that i found several abusive comments directed at me online.,Online Abuse,expanded_v14_holdout,Online Abuse_test_13
+The allegation is described in these terms: someone shared harmful content about me publicly.,Online Abuse,expanded_v14_holdout,Online Abuse_test_14
+The matter is presented as follows: i am being subjected to abusive online comments.,Online Abuse,expanded_v14_holdout,Online Abuse_test_15
+The reporting person describes the event as: someone posted insulting comments about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_16
+The reporting party states that a person is using offensive language against me online.,Online Abuse,expanded_v14_holdout,Online Abuse_test_17
+The facts described by the complainant are: someone is using online posts to damage my reputation.,Online Abuse,expanded_v14_holdout,Online Abuse_test_18
+The report explains the circumstances this way: someone is abusing me through social media.,Online Abuse,expanded_v14_holdout,Online Abuse_test_19
+The submitted account says that media social through me abusing is Someone.,Online Abuse,expanded_v14_holdout,Online Abuse_test_20
+The report explains the circumstances this way: someone made harmful claims about me online.,Online Abuse,expanded_v14_holdout,Online Abuse_test_21
+The complaint narrative provides that a person is using offensive posts against me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_22
+The matter is presented as follows: someone posted false and harmful statements about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_23
+The case information provided is: someone uploaded content containing offensive statements about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_24
+"In the incident description, it is stated that someone uploaded a post that damages my reputation.",Online Abuse,expanded_v14_holdout,Online Abuse_test_25
+The complaint states in substance that i am receiving abusive comments on social media.,Online Abuse,expanded_v14_holdout,Online Abuse_test_26
+The facts described by the complainant are: someone is posting harmful content about me.,Online Abuse,expanded_v14_holdout,Online Abuse_test_27
+"In the incident description, it is stated that someone posted false and harmful statements about me.",Online Abuse,expanded_v14_holdout,Online Abuse_test_28
+The reporting person describes the event as: i am facing abusive behaviour online.,Online Abuse,expanded_v14_holdout,Online Abuse_test_29
+The incident account says that someone forcefully took my mobile phone on the street.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_0
+The reporting person describes the event as: a person pulled the complainant's gold chain from my neck.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_1
+"In the incident description, it is stated that a man grabbed my handbag and escaped.",Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_2
+The reporter states the circumstances were that a group stopped me and took my belongings by force.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_3
+The complaint states in substance that a group stopped me and took my belongings by force.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_4
+The facts described by the complainant are: someone grabbed my purse and ran away.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_5
+The case information provided is: my chain was pulled from my neck by a stranger.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_6
+The complaint states in substance that a man grabbed my handbag and escaped.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_7
+The incident is summarized in the complaint as: someone threatened me before taking my cash.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_8
+The complaint narrative provides that two people threatened me and took the complainant's wallet.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_9
+The submitted account says that someone forcefully took my mobile phone on the street.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_10
+"In the incident description, it is stated that someone suddenly grabbed my phone while i was walking.",Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_11
+The allegation is described in these terms: a person pulled my gold chain from my neck.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_12
+The complaint states in substance that someone suddenly grabbed my phone while I was walking.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_13
+The report provided by the applicant states that someone forcefully took the complainant's mobile phone on the street.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_14
+The incident is summarized in the complaint as: my chain was pulled from my neck by a stranger.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_15
+The complaint gives this account of events: a person snatched the complainant's phone from my hand.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_16
+The submitted account says that a person on a motorcycle snatched my bag.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_17
+The allegation is described in these terms: i was threatened with a weapon and robbed.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_18
+The reporting person describes the event as: a person snatched the complainant's phone from my hand.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_19
+The reporting person describes the event as: someone suddenly grabbed the complainant's phone while I was walking.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_20
+The reporting party states that a man grabbed my handbag and escaped.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_21
+The reporter states the circumstances were that someone grabbed my purse and ran away.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_22
+The submitted complaint records that someone forcefully took my mobile phone on the street.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_23
+The complaint gives this account of events: someone grabbed the complainant's purse and ran away.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_24
+The complaint gives this account of events: a man grabbed the complainant's handbag and escaped.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_25
+The facts described by the complainant are: someone forcefully took my mobile phone on the street.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_26
+The complainant says the following occurred: a man grabbed my handbag and escaped.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_27
+The facts supplied for review are: a group stopped me and took my belongings by force.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_28
+The narrative given to the classifier says cash my taking before me threatened Someone.,Robbery & Snatching,expanded_v14_holdout,Robbery & Snatching_test_29
+The report provided by the applicant states that someone threatened to expose the complainant's private information unless I paid money.,Extortion,expanded_v14_holdout,Extortion_test_0
+"In the incident description, it is stated that a person is demanding money in exchange for not revealing information.",Extortion,expanded_v14_holdout,Extortion_test_1
+The incident account says that i am being pressured to pay money because of a threat.,Extortion,expanded_v14_holdout,Extortion_test_2
+The submitted account says that a person demanded money and threatened to harm me if I refused.,Extortion,expanded_v14_holdout,Extortion_test_3
+The report explains the circumstances this way: someone said they would publish my photos unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_4
+The narrative given to the classifier says a person demanded money and threatened to harm me if I refused.,Extortion,expanded_v14_holdout,Extortion_test_5
+The complaint states in substance that i received a threat to pay money or face consequences.,Extortion,expanded_v14_holdout,Extortion_test_6
+The facts described by the complainant are: i received a threat to pay money or face consequences.,Extortion,expanded_v14_holdout,Extortion_test_7
+The submitted account says that someone said they would damage my reputation unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_8
+The report provided by the applicant states that someone said they would damage the complainant's reputation unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_9
+The complaint states in substance that someone said they would publish my photos unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_10
+The complainant says the following occurred: i received a threat to pay money or face consequences.,Extortion,expanded_v14_holdout,Extortion_test_11
+The narrative given to the classifier says i received a threat to pay money or face consequences.,Extortion,expanded_v14_holdout,Extortion_test_12
+The complaint states in substance that someone threatened to expose my private information unless I paid money.,Extortion,expanded_v14_holdout,Extortion_test_13
+The incident is summarized in the complaint as: i am being blackmailed for money.,Extortion,expanded_v14_holdout,Extortion_test_14
+The complainant says the following occurred: a person demanded money and threatened to harm me if I refused.,Extortion,expanded_v14_holdout,Extortion_test_15
+The matter is presented as follows: someone threatened to expose my private information unless i paid money.,Extortion,expanded_v14_holdout,Extortion_test_16
+The case information provided is: i am being pressured to pay money because of a threat.,Extortion,expanded_v14_holdout,Extortion_test_17
+The matter is presented as follows: i am being pressured to pay money because of a threat.,Extortion,expanded_v14_holdout,Extortion_test_18
+The reporter states the circumstances were that a person threatened to leak private material unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_19
+The facts supplied for review are: someone said they would damage my reputation unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_20
+The incident is summarized in the complaint as: a person threatened to leak private material unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_21
+The allegation is described in these terms: someone threatened to expose my private information unless I paid money.,Extortion,expanded_v14_holdout,Extortion_test_22
+The reporter states the circumstances were that i am being blackmailed for money.,Extortion,expanded_v14_holdout,Extortion_test_23
+"In the incident description, it is stated that someone threatened to expose my private information unless i paid money.",Extortion,expanded_v14_holdout,Extortion_test_24
+The incident is summarized in the complaint as: i am being pressured to pay money because of a threat.,Extortion,expanded_v14_holdout,Extortion_test_25
+The submitted account says that me threatening by cash demanded Someone.,Extortion,expanded_v14_holdout,Extortion_test_26
+The facts described by the complainant are: a person demanded money and threatened to harm me if I refused.,Extortion,expanded_v14_holdout,Extortion_test_27
+The reporter states the circumstances were that someone said they would damage my reputation unless I paid.,Extortion,expanded_v14_holdout,Extortion_test_28
+The facts described by the complainant are: i am being pressured to pay money because of a threat.,Extortion,expanded_v14_holdout,Extortion_test_29
+The reporting party states that i paid after being misled about what i would receive.,Cheating,expanded_v14_holdout,Cheating_test_0
+The complaint gives this account of events: someone promised a service and cheated me after taking payment.,Cheating,expanded_v14_holdout,Cheating_test_1
+The facts supplied for review are: i was cheated after being given a false promise.,Cheating,expanded_v14_holdout,Cheating_test_2
+The reporting person describes the event as: a person deliberately misled me to get a financial benefit.,Cheating,expanded_v14_holdout,Cheating_test_3
+The complaint gives this account of events: someone made a false representation to obtain the complainant's money.,Cheating,expanded_v14_holdout,Cheating_test_4
+The reporting party states that i was tricked by a false business claim.,Cheating,expanded_v14_holdout,Cheating_test_5
+The complaint states in substance that i was cheated after being given a false promise.,Cheating,expanded_v14_holdout,Cheating_test_6
+The report provided by the applicant states that someone made a false representation to obtain the complainant's money.,Cheating,expanded_v14_holdout,Cheating_test_7
+The complaint states in substance that a person deliberately misled me to get a financial benefit.,Cheating,expanded_v14_holdout,Cheating_test_8
+The submitted account says that a seller lied about a product and kept my payment.,Cheating,expanded_v14_holdout,Cheating_test_9
+The facts described by the complainant are: someone made a false representation to obtain my money.,Cheating,expanded_v14_holdout,Cheating_test_10
+The complainant says the following occurred: a person deceived me into handing over property.,Cheating,expanded_v14_holdout,Cheating_test_11
+The report provided by the applicant states that a seller lied about a product and kept the complainant's payment.,Cheating,expanded_v14_holdout,Cheating_test_12
+The allegation is described in these terms: i was cheated after being given a false promise.,Cheating,expanded_v14_holdout,Cheating_test_13
+The complaint gives this account of events: i was cheated after being given a false promise.,Cheating,expanded_v14_holdout,Cheating_test_14
+The report explains the circumstances this way: i was cheated after being given a false promise.,Cheating,expanded_v14_holdout,Cheating_test_15
+The case information provided is: i paid after being misled about what I would receive.,Cheating,expanded_v14_holdout,Cheating_test_16
+The reporting person describes the event as: someone promised a service and cheated me after taking payment.,Cheating,expanded_v14_holdout,Cheating_test_17
+The report explains the circumstances this way: someone deceived me and took my money.,Cheating,expanded_v14_holdout,Cheating_test_18
+The matter is presented as follows: a person deceived me into handing over property.,Cheating,expanded_v14_holdout,Cheating_test_19
+The complaint narrative provides that i was tricked by a false business claim.,Cheating,expanded_v14_holdout,Cheating_test_20
+The report explains the circumstances this way: a person deliberately misled me to get a financial benefit.,Cheating,expanded_v14_holdout,Cheating_test_21
+The submitted account says that i was cheated after being given a false promise.,Cheating,expanded_v14_holdout,Cheating_test_22
+The narrative given to the classifier says i was tricked by a false business claim.,Cheating,expanded_v14_holdout,Cheating_test_23
+The reporter states the circumstances were that a person deceived me into handing over property.,Cheating,expanded_v14_holdout,Cheating_test_24
+The facts described by the complainant are: a person deliberately misled me to get a financial benefit.,Cheating,expanded_v14_holdout,Cheating_test_25
+The complaint narrative provides that someone deceived me and took the complainant's money.,Cheating,expanded_v14_holdout,Cheating_test_26
+The complaint states in substance that i was tricked by a false business claim.,Cheating,expanded_v14_holdout,Cheating_test_27
+The complaint gives this account of events: someone cheated me through a dishonest promise.,Cheating,expanded_v14_holdout,Cheating_test_28
+The submitted account says that money my took and me deceived Someone.,Cheating,expanded_v14_holdout,Cheating_test_29
+The complainant says the following occurred: a person impersonated a police officer and demanded payment.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_0
+"In the incident description, it is stated that someone pretended to be my bank manager and took money from me.",Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_1
+"In the incident description, it is stated that a person impersonated a police officer and demanded payment.",Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_2
+The facts supplied for review are: a caller pretended to work for my bank and deceived me.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_3
+The reporter states the circumstances were that a caller pretended to work for my bank and deceived me.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_4
+The incident account says that someone pretended to be a government official to obtain money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_5
+The incident account says that someone posed as an employee of the bank and obtained my details.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_6
+The complaint states in substance that someone posed as my relative and asked me for money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_7
+The complaint gives this account of events: someone posed as the complainant's relative and asked me for money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_8
+The submitted complaint records that a person impersonated a police officer and demanded payment.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_9
+The complainant says the following occurred: someone pretended to be a government official to obtain money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_10
+The reporting party states that someone impersonated my friend and asked for money online.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_11
+The reporting person describes the event as: a person used a fake identity to trick me into making a payment.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_12
+"In the incident description, it is stated that a scammer pretended to be a company representative.",Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_13
+The facts described by the complainant are: a person used a fake identity to trick me into making a payment.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_14
+The complaint states in substance that someone pretended to be a government official to obtain money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_15
+The report explains the circumstances this way: a person used a fake identity to trick me into making a payment.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_16
+The incident is summarized in the complaint as: a scammer pretended to be a company representative.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_17
+The complaint gives this account of events: someone posed as an employee of the bank and obtained the complainant's details.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_18
+The submitted account says that someone pretended to be a government official to obtain money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_19
+The allegation is described in these terms: a person impersonated a police officer and demanded payment.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_20
+The narrative given to the classifier says someone pretended to be my bank manager and took money from me.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_21
+The reporting party states that someone pretended to be a government official to obtain money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_22
+The report explains the circumstances this way: a caller pretended to work for my bank and deceived me.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_23
+The reporting person describes the event as: someone pretended to be a government official to obtain money.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_24
+The complaint gives this account of events: a person pretended to be someone else to deceive me.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_25
+The complaint narrative provides that a scammer pretended to be a company representative.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_26
+The report provided by the applicant states that a person pretended to be someone else to deceive me.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_27
+The complaint states in substance that a caller pretended to work for my bank and deceived me.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_28
+The case information provided is: someone impersonated my friend and asked for money online.,Cheating by Personation,expanded_v14_holdout,Cheating by Personation_test_29
+The case information provided is: them to entrusted money misused employee An.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_0
+The narrative given to the classifier says someone dishonestly used property I had entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_1
+The report explains the circumstances this way: a person who was holding my money refused to return it and used it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_2
+The complaint states in substance that my employee was entrusted with cash and kept it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_3
+The report explains the circumstances this way: i gave someone money to keep for me and they used it dishonestly.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_4
+The report explains the circumstances this way: my employee was entrusted with cash and kept it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_5
+The complaint gives this account of events: someone retained the complainant's property after I gave it to them for a specific purpose.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_6
+The incident is summarized in the complaint as: i entrusted a laptop to someone who then disposed of it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_7
+The reporter states the circumstances were that someone dishonestly used property I had entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_8
+The submitted account says that i entrusted a laptop to someone who then disposed of it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_9
+The report provided by the applicant states that an employee misused money entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_10
+The facts described by the complainant are: a person who was holding my money refused to return it and used it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_11
+The complainant says the following occurred: i entrusted a laptop to someone who then disposed of it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_12
+The facts supplied for review are: someone dishonestly used property I had entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_13
+The reporter states the circumstances were that i gave someone money to keep for me and they used it dishonestly.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_14
+The facts supplied for review are: an employee misused money entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_15
+The allegation is described in these terms: someone retained my property after I gave it to them for a specific purpose.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_16
+The complaint states in substance that an employee misused money entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_17
+The report explains the circumstances this way: i handed over property for safekeeping and it was misused.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_18
+The matter is presented as follows: someone dishonestly used property i had entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_19
+The complaint narrative provides that someone dishonestly used property I had entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_20
+The case information provided is: a person who was holding my money refused to return it and used it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_21
+The case information provided is: i handed over property for safekeeping and it was misused.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_22
+The reporting party states that i entrusted a laptop to someone who then disposed of it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_23
+The reporter states the circumstances were that someone retained my property after I gave it to them for a specific purpose.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_24
+The narrative given to the classifier says i handed over property for safekeeping and it was misused.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_25
+The submitted account says that someone dishonestly used property I had entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_26
+The incident account says that my employee was entrusted with cash and kept it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_27
+The matter is presented as follows: an employee misused money entrusted to them.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_28
+The narrative given to the classifier says a person who was holding my money refused to return it and used it.,Criminal Breach of Trust,expanded_v14_holdout,Criminal Breach of Trust_test_29
+The complaint states in substance that a person broke the windows of my house.,Property Damage,expanded_v14_holdout,Property Damage_test_0
+The report provided by the applicant states that someone damaged the complainant's vehicle during an argument.,Property Damage,expanded_v14_holdout,Property Damage_test_1
+The complaint gives this account of events: a person intentionally damaged a boundary wall.,Property Damage,expanded_v14_holdout,Property Damage_test_2
+The facts described by the complainant are: someone destroyed my belongings on purpose.,Property Damage,expanded_v14_holdout,Property Damage_test_3
+The complaint states in substance that someone deliberately damaged my car.,Property Damage,expanded_v14_holdout,Property Damage_test_4
+The complainant says the following occurred: someone deliberately damaged equipment at my workplace.,Property Damage,expanded_v14_holdout,Property Damage_test_5
+The complaint narrative provides that someone destroyed the complainant's belongings on purpose.,Property Damage,expanded_v14_holdout,Property Damage_test_6
+The facts described by the complainant are: a person broke the windows of my house.,Property Damage,expanded_v14_holdout,Property Damage_test_7
+The reporting party states that someone deliberately damaged equipment at my workplace.,Property Damage,expanded_v14_holdout,Property Damage_test_8
+The narrative given to the classifier says a person broke the windows of my house.,Property Damage,expanded_v14_holdout,Property Damage_test_9
+The case information provided is: a person broke the windows of my house.,Property Damage,expanded_v14_holdout,Property Damage_test_10
+"In the incident description, it is stated that an individual destroyed my belongings on purpose.",Property Damage,expanded_v14_holdout,Property Damage_test_11
+The submitted complaint records that wall boundary a damaged intentionally person A.,Property Damage,expanded_v14_holdout,Property Damage_test_12
+The reporter states the circumstances were that a person broke the windows of my house.,Property Damage,expanded_v14_holdout,Property Damage_test_13
+The complaint gives this account of events: someone deliberately damaged the complainant's car.,Property Damage,expanded_v14_holdout,Property Damage_test_14
+The complaint states in substance that a person set fire to property belonging to me.,Property Damage,expanded_v14_holdout,Property Damage_test_15
+The reporting party states that a person intentionally damaged a boundary wall.,Property Damage,expanded_v14_holdout,Property Damage_test_16
+The submitted complaint records that argument an during vehicle my damaged Someone.,Property Damage,expanded_v14_holdout,Property Damage_test_17
+The report explains the circumstances this way: someone destroyed my belongings on purpose.,Property Damage,expanded_v14_holdout,Property Damage_test_18
+The allegation is described in these terms: someone destroyed my belongings on purpose.,Property Damage,expanded_v14_holdout,Property Damage_test_19
+The reporting person describes the event as: a person set fire to property belonging to me.,Property Damage,expanded_v14_holdout,Property Damage_test_20
+The complaint states in substance that someone vandalized my shop.,Property Damage,expanded_v14_holdout,Property Damage_test_21
+The reporting person describes the event as: a person caused serious damage to the complainant's house.,Property Damage,expanded_v14_holdout,Property Damage_test_22
+The incident account says that someone damaged my vehicle during an argument.,Property Damage,expanded_v14_holdout,Property Damage_test_23
+The narrative given to the classifier says purpose on belongings my destroyed Someone.,Property Damage,expanded_v14_holdout,Property Damage_test_24
+The case information provided is: wall boundary a damaged intentionally person A.,Property Damage,expanded_v14_holdout,Property Damage_test_25
+The reporting party states that a person caused serious damage to my house.,Property Damage,expanded_v14_holdout,Property Damage_test_26
+The facts described by the complainant are: someone deliberately damaged equipment at my workplace.,Property Damage,expanded_v14_holdout,Property Damage_test_27
+The narrative given to the classifier says property my destroyed intentionally person A.,Property Damage,expanded_v14_holdout,Property Damage_test_28
+"In the incident description, it is stated that someone damaged my vehicle during an argument.",Property Damage,expanded_v14_holdout,Property Damage_test_29
+The complainant says the following occurred: a stranger trespassed onto my property.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_0
+The report provided by the applicant states that someone broke a window to enter the complainant's shop.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_1
+The submitted complaint records that property my onto trespassed stranger A.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_2
+The report provided by the applicant states that someone broke into a room in the complainant's house.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_3
+The reporting person describes the event as: someone broke into a room in the complainant's house.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_4
+The submitted complaint records that a person broke the lock and entered my home.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_5
+The submitted complaint records that someone broke into a room in my house.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_6
+The narrative given to the classifier says property my onto trespassed stranger A.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_7
+The allegation is described in these terms: someone broke a window to enter my shop.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_8
+The reporting party states that a person broke the lock and entered my home.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_9
+The submitted complaint records that a person entered my property despite being told not to.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_10
+The reporter states the circumstances were that someone entered my house without permission.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_11
+The complaint states in substance that a stranger trespassed onto my property.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_12
+The case information provided is: a person climbed into my house without permission.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_13
+The complaint gives this account of events: someone entered the complainant's house by forcing the door open.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_14
+The incident account says that someone broke into a room in my house.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_15
+The reporting party states that a person climbed into my home without permission.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_16
+The incident is summarized in the complaint as: someone broke a window to enter my shop.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_17
+The report explains the circumstances this way: someone broke a window to enter my shop.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_18
+The facts supplied for review are: a person entered my property despite being told not to.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_19
+The incident is summarized in the complaint as: someone entered my house by forcing the door open.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_20
+The facts supplied for review are: someone broke into a room in my house.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_21
+The case information provided is: someone entered my house by forcing the door open.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_22
+The reporting party states that someone entered my house without permission.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_23
+The complaint narrative provides that a person entered the complainant's premises unlawfully at night.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_24
+The complaint states in substance that someone broke into a room in my house.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_25
+The matter is presented as follows: a person entered my property despite being told not to.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_26
+The submitted account says that night at office my into broke Someone.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_27
+The facts described by the complainant are: a stranger trespassed onto my property.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_28
+The complaint gives this account of events: someone entered the complainant's house without permission.,Trespass & House-Breaking,expanded_v14_holdout,Trespass & House-Breaking_test_29
+The report provided by the applicant states that someone fabricated a certificate.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_0
+The facts described by the complainant are: a forged will was prepared using false information.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_1
+The complaint gives this account of events: a person used a fake stamp on a document.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_2
+The case information provided is: a person presented a forged document as genuine.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_3
+The report provided by the applicant states that a forged will was prepared using false information.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_4
+The submitted account says that permission without record official an altered Someone.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_5
+The matter is presented as follows: a person used a fake stamp on a document.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_6
+The narrative given to the classifier says a forged will was prepared using false information.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_7
+The case information provided is: a person used a fake signature on a document.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_8
+The reporting person describes the event as: someone created a forged document using the complainant's name.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_9
+The reporting person describes the event as: someone created a false electronic record.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_10
+The incident account says that someone altered an official record without permission.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_11
+The complaint gives this account of events: someone altered an official record without permission.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_12
+The incident account says that someone created a false electronic record.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_13
+The matter is presented as follows: someone created a false electronic record.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_14
+The complaint states in substance that a person used a fake signature on a document.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_15
+The complainant says the following occurred: a forged will was prepared using false information.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_16
+The reporting party states that a person used a fake stamp on a document.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_17
+The reporter states the circumstances were that someone created a false electronic record.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_18
+The allegation is described in these terms: someone fabricated a certificate.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_19
+The complaint gives this account of events: someone created a forged document using the complainant's name.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_20
+The allegation is described in these terms: someone created a forged document using my name.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_21
+The complaint narrative provides that someone created a forged document using the complainant's name.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_22
+The case information provided is: a forged property document was submitted in my name.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_23
+The reporter states the circumstances were that a person presented a forged document as genuine.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_24
+The report explains the circumstances this way: someone altered an official record without permission.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_25
+The reporter states the circumstances were that someone fabricated a certificate.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_26
+The facts supplied for review are: a person presented a forged document as genuine.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_27
+"In the incident description, it is stated that someone altered an official record without permission.",Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_28
+The complainant says the following occurred: a person used a fake signature on a document.,Forgery & False Documents,expanded_v14_holdout,Forgery & False Documents_test_29
+The case information provided is: someone threatened to damage my property if I refused to cooperate.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_0
+The complaint states in substance that i received repeated threats from someone.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_1
+The complaint states in substance that i was threatened with serious consequences.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_2
+The incident is summarized in the complaint as: a person threatened my family.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_3
+The incident is summarized in the complaint as: a person said they would harm me if I reported the matter.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_4
+The complainant says the following occurred: someone sent me threatening messages.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_5
+The incident is summarized in the complaint as: someone threatened me and my family over a dispute.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_6
+"In the incident description, it is stated that i received a death threat.",Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_7
+The facts described by the complainant are: a person said they would harm me if I reported the matter.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_8
+The case information provided is: someone threatened me and my family over a dispute.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_9
+The facts supplied for review are: i received a death threat.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_10
+The complainant says the following occurred: a person said they would harm me if I reported the matter.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_11
+The case information provided is: a person said they would harm me if I reported the matter.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_12
+The narrative given to the classifier says silent staying into me intimidated person A.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_13
+The reporter states the circumstances were that a person threatened my family.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_14
+The case information provided is: silent staying into me intimidated person A.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_15
+The narrative given to the classifier says messages threatening me sent Someone.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_16
+The complainant says the following occurred: someone threatened me and my family over a dispute.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_17
+The narrative given to the classifier says threat death a received I.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_18
+The incident account says that someone threatened me and my family over a dispute.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_19
+The matter is presented as follows: i received a death threat.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_20
+The facts described by the complainant are: i was threatened with serious consequences.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_21
+The incident account says that i received a death threat.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_22
+The complaint gives this account of events: a person threatened the complainant's family.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_23
+The matter is presented as follows: a person threatened my family.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_24
+The incident account says that a person threatened my family.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_25
+The facts supplied for review are: someone threatened to hurt me.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_26
+The incident account says that someone warned to damage my property if i refused to cooperate.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_27
+The submitted complaint records that a person said they would harm me if I reported the matter.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_28
+The reporter states the circumstances were that someone sent me threatening messages.,Criminal Intimidation,expanded_v14_holdout,Criminal Intimidation_test_29
+The facts supplied for review are: someone sexually harassed me.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_0
+The complaint states in substance that someone used criminal force against a woman with sexual intent.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_1
+The report provided by the applicant states that someone repeatedly contacted me with sexual messages.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_2
+The complaint narrative provides that a person secretly recorded me in a private place.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_3
+The complainant says the following occurred: i reported a sexual assault.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_4
+The reporter states the circumstances were that a person threatened me with unwanted sexual conduct.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_5
+The facts described by the complainant are: someone repeatedly contacted me with sexual messages.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_6
+The incident is summarized in the complaint as: someone watched me without my knowledge in a private situation.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_7
+The case information provided is: me harassed sexually Someone.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_8
+The matter is presented as follows: someone watched me without my knowledge in a private situation.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_9
+The case information provided is: someone repeatedly followed me in a sexual context.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_10
+The case information provided is: someone used criminal force against a woman with sexual intent.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_11
+The complaint gives this account of events: someone used criminal force against a woman with sexual intent.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_12
+The reporting person describes the event as: a person made unwanted sexual comments toward me.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_13
+The complaint gives this account of events: someone sexually harassed me.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_14
+The narrative given to the classifier says someone watched me without my knowledge in a private situation.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_15
+The facts described by the complainant are: someone sexually harassed me.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_16
+The report provided by the applicant states that i reported a sexual assault.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_17
+The case information provided is: a person secretly recorded me in a private place.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_18
+The facts described by the complainant are: someone repeatedly followed me in a sexual context.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_19
+The submitted complaint records that me harassed sexually Someone.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_20
+The complaint gives this account of events: a person secretly recorded me in a private place.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_21
+The reporting person describes the event as: i reported a sexual assault.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_22
+The incident is summarized in the complaint as: someone used criminal force against a woman with sexual intent.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_23
+The facts supplied for review are: i reported a sexual assault.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_24
+The complaint narrative provides that someone sexually harassed me.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_25
+The allegation is described in these terms: a person secretly recorded me in a private place.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_26
+The incident account says that a person secretly recorded me in a private place.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_27
+The allegation is described in these terms: someone used criminal force against a woman with sexual intent.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_28
+The complainant says the following occurred: someone watched me without my knowledge in a private situation.,Sexual Offence,expanded_v14_holdout,Sexual Offence_test_29
+The reporter states the circumstances were that someone kidnapped a child.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_0
+The case information provided is: someone kidnapped a person and demanded money for release.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_1
+The complainant says the following occurred: someone kidnapped my family member.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_2
+The complainant says the following occurred: someone kidnapped a person and demanded money for release.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_3
+The reporting person describes the event as: someone kidnapped the complainant's family member.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_4
+The submitted account says that ransom for abducted was person A.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_5
+The report provided by the applicant states that someone unlawfully kept a kidnapped person in confinement.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_6
+The allegation is described in these terms: someone kidnapped a child.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_7
+The incident is summarized in the complaint as: someone unlawfully kept a kidnapped person in confinement.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_8
+The reporter states the circumstances were that my relative was taken against their will.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_9
+The reporter states the circumstances were that a person was abducted for ransom.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_10
+The complainant says the following occurred: someone unlawfully kept a kidnapped person in confinement.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_11
+The complaint states in substance that someone kidnapped a child.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_12
+The complainant says the following occurred: someone forced a person into a vehicle and drove away.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_13
+The allegation is described in these terms: someone unlawfully kept a kidnapped person in confinement.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_14
+The facts supplied for review are: someone kidnapped a child.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_15
+The reporter states the circumstances were that a person was held captive and not allowed to leave.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_16
+The facts supplied for review are: a person abducted someone and took them away by force.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_17
+The report explains the circumstances this way: someone forced a person into a vehicle and drove away.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_18
+The incident is summarized in the complaint as: a person was abducted for ransom.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_19
+The submitted account says that someone kidnapped a person and demanded money for release.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_20
+The complaint states in substance that a person was abducted for ransom.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_21
+The reporting person describes the event as: a person was taken away without their consent.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_22
+The facts supplied for review are: someone kidnapped a person and demanded money for release.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_23
+The complaint narrative provides that someone forced a person into a vehicle and drove away.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_24
+The narrative given to the classifier says child a kidnapped Someone.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_25
+The reporting person describes the event as: a person abducted someone and took them away by force.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_26
+The facts supplied for review are: someone forced a person into a vehicle and drove away.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_27
+The reporting person describes the event as: someone kidnapped a child.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_28
+The reporting party states that someone kidnapped a child.,Kidnapping & Abduction,expanded_v14_holdout,Kidnapping & Abduction_test_29
+The complaint gives this account of events: i was restrained and not allowed to leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_0
+The facts described by the complainant are: a person stopped me from moving away.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_1
+The report provided by the applicant states that someone blocked the complainant's path and would not let me leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_2
+The incident is summarized in the complaint as: someone locked the door and kept me inside.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_3
+The report provided by the applicant states that a person prevented me from leaving the building.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_4
+The complaint narrative provides that someone blocked the complainant's path and would not let me leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_5
+The incident is summarized in the complaint as: someone blocked my path and would not let me leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_6
+The submitted account says that a person prevented me from leaving the building.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_7
+The complaint gives this account of events: someone blocked the complainant's path and would not let me leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_8
+The allegation is described in these terms: a person prevented me from leaving the building.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_9
+The reporter states the circumstances were that someone blocked my path and would not let me leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_10
+The complainant says the following occurred: a person prevented me from leaving the building.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_11
+The report provided by the applicant states that someone locked the door and kept me inside.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_12
+The report explains the circumstances this way: someone held me in a room against my wishes.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_13
+The submitted account says that room a inside me locked person A.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_14
+The facts supplied for review are: someone blocked my path and would not let me leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_15
+The reporter states the circumstances were that i was restrained and not allowed to leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_16
+The facts supplied for review are: i was restrained and not allowed to leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_17
+The complaint narrative provides that a person stopped me from moving away.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_18
+The complaint narrative provides that a person prevented me from leaving the building.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_19
+The complainant says the following occurred: a person locked me inside a room.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_20
+The reporting party states that i was restrained and not allowed to leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_21
+The complaint states in substance that someone confined me against my will.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_22
+The complaint states in substance that someone locked the door and kept me inside.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_23
+The complaint states in substance that i was restrained and not allowed to leave.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_24
+The narrative given to the classifier says will my against me confined Someone.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_25
+"In the incident description, it is stated that someone held me in a room against my wishes.",Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_26
+The narrative given to the classifier says someone locked the door and kept me inside.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_27
+The narrative given to the classifier says someone held me in a room against my wishes.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_28
+The complaint narrative provides that someone locked the door and kept me inside.,Wrongful Restraint & Confinement,expanded_v14_holdout,Wrongful Restraint & Confinement_test_29
+The allegation is described in these terms: someone stabbed me during an attack intended to kill me.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_0
+The incident is summarized in the complaint as: a person attempted to murder me.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_1
+"In the incident description, it is stated that someone stabbed me during an attack intended to kill me.",Attempted Murder,expanded_v14_holdout,Attempted Murder_test_2
+The matter is presented as follows: someone tried to kill me during an argument.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_3
+The complaint narrative provides that someone attacked me with the intention of causing the complainant's death.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_4
+The complaint gives this account of events: a person shot at me but I survived.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_5
+The case information provided is: member family a murder to attempted Someone.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_6
+The narrative given to the classifier says someone stabbed me during an attack intended to kill me.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_7
+The complaint narrative provides that a person tried to cause the complainant's death deliberately.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_8
+The narrative given to the classifier says someone tried to kill me during an argument.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_9
+The incident account says that a person shot at me but i survived.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_10
+"In the incident description, it is stated that someone attempted to murder a family member.",Attempted Murder,expanded_v14_holdout,Attempted Murder_test_11
+The submitted complaint records that me murder to attempted person A.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_12
+The report provided by the applicant states that someone stabbed me during an attack intended to kill me.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_13
+The report provided by the applicant states that someone attacked me with the intention of causing the complainant's death.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_14
+The allegation is described in these terms: a person shot at me but I survived.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_15
+The incident account says that someone attacked me with the intention of causing my death.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_16
+The complainant says the following occurred: a person attempted to murder me.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_17
+The report explains the circumstances this way: a person attempted to murder me.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_18
+"In the incident description, it is stated that a person shot at me but i survived.",Attempted Murder,expanded_v14_holdout,Attempted Murder_test_19
+The report explains the circumstances this way: someone attempted to murder a family member.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_20
+The submitted complaint records that a person tried to cause my death deliberately.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_21
+The complaint narrative provides that a person attacked me with an apparent intention to kill.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_22
+The report explains the circumstances this way: someone tried to kill me during an argument.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_23
+The complaint states in substance that a person attacked me with an apparent intention to kill.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_24
+The case information provided is: a person shot at me but I survived.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_25
+The submitted account says that a person tried to cause my death deliberately.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_26
+The facts described by the complainant are: a person attacked me with an apparent intention to kill.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_27
+The facts supplied for review are: someone stabbed me during an attack intended to kill me.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_28
+The matter is presented as follows: someone attacked me with the intention of causing my death.,Attempted Murder,expanded_v14_holdout,Attempted Murder_test_29
+The facts supplied for review are: someone knowingly shared false information with the public.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_0
+"In the incident description, it is stated that someone spread false information that caused public panic.",Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_1
+The facts supplied for review are: a person spread a false statement that could disturb public order.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_2
+The incident is summarized in the complaint as: a person circulated a false rumour likely to cause alarm.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_3
+The allegation is described in these terms: someone spread false information that caused public panic.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_4
+The case information provided is: someone knowingly shared false information with the public.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_5
+The case information provided is: someone spread false information that caused public panic.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_6
+The reporting party states that an individual spread a false statement that could disturb public order.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_7
+The matter is presented as follows: a person circulated a false rumour likely to cause alarm.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_8
+The complainant says the following occurred: a person spread a false statement that could disturb public order.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_9
+The case information provided is: a person spread a false statement that could disturb public order.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_10
+The complaint narrative provides that someone spread false information that caused public panic.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_11
+The facts described by the complainant are: someone spread false information that caused public panic.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_12
+The incident account says that someone posted a false rumour that caused panic in the community.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_13
+The submitted account says that someone knowingly shared false information with the public.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_14
+The complaint states in substance that someone spread false information that caused public panic.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_15
+The narrative given to the classifier says a person circulated misleading information likely to create public fear.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_16
+The report explains the circumstances this way: a person circulated misleading information likely to create public fear.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_17
+The complaint narrative provides that a person circulated a false rumour likely to cause alarm.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_18
+The submitted account says that someone spread false information that caused public panic.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_19
+The report provided by the applicant states that a person circulated misleading information likely to create public fear.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_20
+The complaint narrative provides that someone posted a false rumour that caused panic in the community.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_21
+The reporting person describes the event as: a person spread a false statement that could disturb public order.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_22
+The incident is summarized in the complaint as: a person spread a false statement that could disturb public order.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_23
+The facts described by the complainant are: someone posted a false rumour that caused panic in the community.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_24
+The reporting person describes the event as: someone posted a false rumour that caused panic in the community.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_25
+The allegation is described in these terms: someone posted a false rumour that caused panic in the community.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_26
+The reporting person describes the event as: a person circulated a false rumour likely to cause alarm.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_27
+The complaint narrative provides that a person spread a false statement that could disturb public order.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_28
+The reporting person describes the event as: someone knowingly shared false information with the public.,Public Mischief & Harmful Statements,expanded_v14_holdout,Public Mischief & Harmful Statements_test_29
+"In the incident description, it is stated that my in-laws harassed me because of a dowry demand.",Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_0
+The report provided by the applicant states that my husband's family demanded dowry and subjected me to cruelty.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_1
+The reporting person describes the event as: my in-laws harassed me because of a dowry demand.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_2
+The reporting person describes the event as: i was subjected to cruelty by the complainant's husband over dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_3
+The reporting party states that my family was pressured for additional dowry after marriage.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_4
+The allegation is described in these terms: my husband's family demanded dowry and subjected me to cruelty.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_5
+The reporter states the circumstances were that i was subjected to cruelty by my husband over dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_6
+The incident account says that my husband and his relatives repeatedly demanded more dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_7
+The submitted account says that my in-laws harassed me because of a dowry demand.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_8
+The incident is summarized in the complaint as: i was subjected to cruelty by my husband over dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_9
+"In the incident description, it is stated that my husband and his relatives repeatedly demanded more dowry.",Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_10
+The complainant says the following occurred: a woman died after sustained dowry-related harassment by her husband and relatives.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_11
+The submitted account says that my husband and his relatives repeatedly demanded more dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_12
+The complaint narrative provides that my family was pressured for additional dowry after marriage.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_13
+The narrative given to the classifier says my husband's family demanded dowry and subjected me to cruelty.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_14
+The reporting party states that my husband and his relatives repeatedly demanded more dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_15
+The submitted complaint records that i was subjected to cruelty by my husband over dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_16
+The case information provided is: a woman died after sustained dowry-related harassment by her husband and relatives.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_17
+The case information provided is: my husband and his relatives repeatedly demanded more dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_18
+The matter is presented as follows: a woman died after sustained dowry-related harassment by her husband and relatives.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_19
+The facts described by the complainant are: i was subjected to cruelty by my husband over dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_20
+"In the incident description, it is stated that i was subjected to cruelty by my husband over dowry.",Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_21
+The facts described by the complainant are: a woman died after sustained dowry-related harassment by her husband and relatives.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_22
+The complaint narrative provides that i was subjected to cruelty by the complainant's husband over dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_23
+The complaint states in substance that a woman died after sustained dowry-related harassment by her husband and relatives.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_24
+The complaint gives this account of events: my husband's family demanded dowry and subjected me to cruelty.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_25
+The complainant says the following occurred: my husband's family demanded dowry and subjected me to cruelty.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_26
+The complaint states in substance that i was subjected to cruelty by my husband over dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_27
+The incident is summarized in the complaint as: my husband and his relatives repeatedly demanded more dowry.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_28
+The complaint narrative provides that a woman died after sustained dowry-related harassment by her husband and relatives.,Dowry Death & Matrimonial Cruelty,expanded_v14_holdout,Dowry Death & Matrimonial Cruelty_test_29
+The submitted account says that a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_0
+The report provided by the applicant states that someone assaulted a police officer while the officer was performing official duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_1
+The facts supplied for review are: someone used force to stop a police officer from performing their duty.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_2
+The complainant says the following occurred: someone used force to stop a police officer from performing their duty.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_3
+The incident is summarized in the complaint as: a person impersonated a public servant.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_4
+The complaint states in substance that someone assaulted a police officer while the officer was performing official duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_5
+The reporting person describes the event as: someone assaulted a police officer while the officer was performing official duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_6
+The incident account says that a person obstructed a public servant from carrying out lawful duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_7
+The complainant says the following occurred: someone assaulted a police officer while the officer was performing official duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_8
+The reporter states the circumstances were that someone assaulted a police officer while the officer was performing official duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_9
+The report provided by the applicant states that a person impersonated a public servant.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_10
+The complaint states in substance that a person obstructed a public servant from carrying out lawful duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_11
+The complainant says the following occurred: a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_12
+The complaint gives this account of events: someone used force to stop a police officer from performing their duty.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_13
+The incident account says that a person impersonated a public servant.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_14
+The matter is presented as follows: a person obstructed a public servant from carrying out lawful duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_15
+The report provided by the applicant states that a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_16
+The complaint gives this account of events: a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_17
+The allegation is described in these terms: a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_18
+The case information provided is: a person obstructed a public servant from carrying out lawful duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_19
+The complaint narrative provides that a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_20
+The matter is presented as follows: a person impersonated a public servant.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_21
+The case information provided is: someone threatened a government officer during official work.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_22
+The reporter states the circumstances were that a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_23
+The facts supplied for review are: a person impersonated a public servant.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_24
+The narrative given to the classifier says a person obstructed a public servant from carrying out lawful duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_25
+The report explains the circumstances this way: someone assaulted a police officer while the officer was performing official duties.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_26
+The facts described by the complainant are: someone threatened a government officer during official work.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_27
+The complainant says the following occurred: someone threatened a government officer during official work.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_28
+The complaint states in substance that a person attacked an officer while the officer was working.,Offence Against Public Servant,expanded_v14_holdout,Offence Against Public Servant_test_29

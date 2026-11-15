@@ -1,0 +1,7 @@
+Judex v14 complaint classifier dataset
+Ratio: 80% training / 20% testing
+Total: 3600
+Training: 2880
+Testing: 720
+Categories: 24
+Per category: 120 train + 30 test

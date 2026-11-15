@@ -1,0 +1,7 @@
+Judex v14 BNS dataset
+Ratio: 80% training / 20% testing
+Total: 35800
+Training: 28640
+Testing: 7160
+Sections: 358
+Per section: 80 train + 20 test
